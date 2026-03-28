@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Abdul Saboor</h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | 🎓 FAST NUCES CS Student</h3>
+<h3 align="center">🚀 Full Stack Developer • 🤖 AI Engineer • 🎓 FAST NUCES</h3>
 
 <p align="center">
   <a href="https://portfolio1-six-wheat.vercel.app/">🌐 Portfolio</a> •
@@ -8,95 +8,74 @@
   <a href="mailto:shahabdulsaboor208@gmail.com">📧 Email</a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+AI+Systems;Full+Stack+Developer;Agentic+AI+%7C+RAG+Enthusiast;Always+Learning+New+Things" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-- 🎓 BS Computer Science @ FAST NUCES (2023–2027)  
-- 💡 Building real-world AI + Full Stack systems  
-- ⚡ Focused on Agentic AI, RAG Systems & Scalable Web Apps  
-- 🧩 Love solving complex problems & shipping products  
+- 🎓 BS Computer Science @ FAST NUCES  
+- 💡 Passionate about **AI + Full Stack Development**  
+- ⚡ Focused on **Agentic AI, RAG Systems & Scalable Apps**  
+- 🧩 I enjoy turning ideas into real, working systems  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 StratosAI — Multi-Agent Startup Analyst
-- 🤖 AI system with 4 intelligent agents  
-- 🔗 LangGraph + LangChain + FastAPI + Next.js  
-- ⚡ Real-time streaming + structured insights  
-
----
-
-### 🔹 MediMind — LLM Health Assistant
-- 🧠 RAG-based chatbot (FAISS + Gemini API)  
-- 👨‍⚕️ Doctor/Patient modes  
-- ⚡ Streamlit deployed  
-
----
-
-### 🔹 Scholr — Book Sharing App
-- 📱 React Native mobile app  
-- 💬 Book listings + communication  
-- 🐳 Docker backend  
-
----
-
-### 🔹 FAST Sports Complex System
-- 🏟️ Full-stack platform  
-- ⚙️ React + Node.js + PostgreSQL  
-- 📊 Admin dashboards  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Python` `C++` `JavaScript`
-
-### 🌐 Full Stack
-`React` `Next.js` `Node.js` `FastAPI` `Flask`
-
-### 🤖 AI / ML
-`PyTorch` `TensorFlow` `Scikit-learn`  
-`LangChain` `LangGraph` `FAISS` `RAG` `NLP`
-
-### 🗄️ Databases
-`PostgreSQL` `MongoDB` `SQL`
-
-### ⚙️ Tools
-`Docker` `Git` `GitHub Actions` `Vercel`
-
----
-
-## 📊 GitHub Stats
+## ⚙️ Tech Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=radical" />
+💻 Languages  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+
+🌐 Full Stack  
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask" />
+
+🤖 AI / ML  
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<br/>
+<sub>+ LangChain • LangGraph • FAISS • NLP • RAG</sub>
+
+🗄️ Databases  
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+⚙️ Tools & DevOps  
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-- 👨‍🏫 Lab Demonstrator @ FAST NUCES  
-- 🧠 Built production-level AI systems  
-- 📦 Deployed full-stack + AI apps  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/abdul-saboor-a572a0289/  
-- 🌐 Portfolio: https://portfolio1-six-wheat.vercel.app/  
-- 📧 Email: shahabdulsaboor208@gmail.com  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Let's Connect
 
-> I don’t just build projects — I build systems that think 🤖
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-saboor-a572a0289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shahabdulsaboor208@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulsaboor190&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
