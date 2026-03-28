@@ -1,6 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Abdul Saboor</h1>
 
-<h3 align="center">🚀 Full Stack Developer • 🤖 AI Engineer • 🎓 FAST NUCES</h3>
+<p align="center">
+  🚀 Full Stack Developer • 🤖 AI Engineer • 🎓 FAST NUCES
+</p>
 
 <p align="center">
   <a href="https://portfolio1-six-wheat.vercel.app/">🌐 Portfolio</a> •
@@ -9,69 +11,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+AI+Systems;Full+Stack+Developer;Agentic+AI+%7C+RAG+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=450&lines=AI+%7C+Full+Stack+Developer;Building+Real+World+Systems;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 BS Computer Science @ FAST NUCES  
-- 💡 Passionate about **AI + Full Stack Development**  
-- ⚡ Focused on **Agentic AI, RAG Systems & Scalable Apps**  
-- 🧩 I enjoy turning ideas into real, working systems  
-
----
-
-## ⚙️ Tech Universe
+## ⚡ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,fastapi,flask" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+</p>
 
-💻 Languages  
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
-
-🌐 Full Stack  
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask" />
-
-🤖 AI / ML  
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/>
-<sub>+ LangChain • LangGraph • FAISS • NLP • RAG</sub>
-
-🗄️ Databases  
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-⚙️ Tools & DevOps  
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
-
+<p align="center">
+  <sub>+ LangChain • LangGraph • FAISS • RAG • NLP</sub>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-saboor-a572a0289/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shahabdulsaboor208@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
