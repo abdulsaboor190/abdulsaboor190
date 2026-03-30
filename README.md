@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio1-six-wheat.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/abdul-saboor-a572a0289/">💼 LinkedIn</a> •
-  <a href="mailto:shahabdulsaboor208@gmail.com">📧 Email</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
