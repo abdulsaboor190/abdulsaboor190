@@ -33,8 +33,7 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulsaboor190&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsaboor190&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
